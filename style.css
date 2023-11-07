@@ -1,0 +1,20 @@
+.noMargin{
+    margin: 0%;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+
+    height: 5%;
+    width: 100%;
+    background-color: #E49AB0;
+}
+
+.nav-text{
+    color: #43291F;
+}
+
+.nav-text-home{
+    color: #43291F;
+}
